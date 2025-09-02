@@ -9,7 +9,7 @@ namespace Infrastructure.Repositories
 		private readonly List<Producto> _productos = new()
 		{
 			new Producto { Id = 1, Nombre = "Laptop", Precio = 1200.50m, Disponible = true },
-			new Producto { Id = 2, Nombre = "Mouse", Precio = 25.00m, Disponible = true },
+			new Producto { Id = 2, Nombre = "Parlante", Precio = 25.00m, Disponible = true },
 			new Producto { Id = 3, Nombre = "Teclado", Precio = 45.99m, Disponible = false }
 		};
 
