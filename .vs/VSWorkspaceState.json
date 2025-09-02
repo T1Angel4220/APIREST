@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ProductosApi",
+    "\\ProductosApi\\Infraestructure",
+    "\\ProductosApi\\Infraestructure\\Repositories"
+  ],
+  "SelectedNode": "\\ProductosApi\\Infraestructure\\Repositories\\InMemoryProductoRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
