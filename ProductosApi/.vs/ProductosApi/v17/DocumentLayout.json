@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Johan\\source\\repos\\APEDistribuidas\\APIREST\\ProductosApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{644F6369-92EF-8625-FA3F-7AB1249E463C}|ProductosApi.csproj|c:\\users\\johan\\source\\repos\\apedistribuidas\\apirest\\productosapi\\presentation\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{644F6369-92EF-8625-FA3F-7AB1249E463C}|ProductosApi.csproj|solutionrelative:presentation\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Johan\\source\\repos\\APEDistribuidas\\APIREST\\ProductosApi\\Presentation\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Johan\\source\\repos\\APEDistribuidas\\APIREST\\ProductosApi\\Presentation\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T21:13:23.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
