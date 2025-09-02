@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Aplicaciones Distribuidas\\ConstruccionAPI\\APIREST\\ProductosApi\\ProductosApi.csproj": {}
+    "C:\\Sexto Semestre\\Aplicaciones Distribuidas\\APIREST\\ProductosApi\\ProductosApi.csproj": {}
   },
   "projects": {
-    "E:\\Aplicaciones Distribuidas\\ConstruccionAPI\\APIREST\\ProductosApi\\ProductosApi.csproj": {
+    "C:\\Sexto Semestre\\Aplicaciones Distribuidas\\APIREST\\ProductosApi\\ProductosApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Aplicaciones Distribuidas\\ConstruccionAPI\\APIREST\\ProductosApi\\ProductosApi.csproj",
+        "projectUniqueName": "C:\\Sexto Semestre\\Aplicaciones Distribuidas\\APIREST\\ProductosApi\\ProductosApi.csproj",
         "projectName": "ProductosApi",
-        "projectPath": "E:\\Aplicaciones Distribuidas\\ConstruccionAPI\\APIREST\\ProductosApi\\ProductosApi.csproj",
-        "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
-        "outputPath": "E:\\Aplicaciones Distribuidas\\ConstruccionAPI\\APIREST\\ProductosApi\\obj\\",
+        "projectPath": "C:\\Sexto Semestre\\Aplicaciones Distribuidas\\APIREST\\ProductosApi\\ProductosApi.csproj",
+        "packagesPath": "C:\\Users\\ACER_2023\\.nuget\\packages\\",
+        "outputPath": "C:\\Sexto Semestre\\Aplicaciones Distribuidas\\APIREST\\ProductosApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ACER_2023\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
