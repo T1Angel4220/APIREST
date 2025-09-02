@@ -1,7 +1,13 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36414.22 d17.14
+=======
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+>>>>>>> aab21ece1c09baedab39b9cc4df91ebf9ed7ebe2
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductosApi", "ProductosApi.csproj", "{644F6369-92EF-8625-FA3F-7AB1249E463C}"
 EndProject
@@ -20,6 +26,10 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
+<<<<<<< HEAD
 		SolutionGuid = {2ADB885D-252A-4F8D-95D3-F74EA80DAF23}
+=======
+		SolutionGuid = {6BEE1FCC-192C-4594-A0C2-674CD013B846}
+>>>>>>> aab21ece1c09baedab39b9cc4df91ebf9ed7ebe2
 	EndGlobalSection
 EndGlobal
